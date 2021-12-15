@@ -13,4 +13,6 @@ using Test.Models;
         }
 
         public DbSet<Test.Models.PersonNTN535> PersonNTN535 { get; set; }
+
+        public DbSet<Test.Models.NTN0535> NTN0535 { get; set; }
     }

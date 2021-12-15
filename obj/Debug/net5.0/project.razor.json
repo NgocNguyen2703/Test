@@ -15644,8 +15644,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\NTN0535\\Create.cshtml",
+      "TargetPath": "Views\\NTN0535\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\PersonNTN535\\Details.cshtml",
       "TargetPath": "Views\\PersonNTN535\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\NTN0535\\Edit.cshtml",
+      "TargetPath": "Views\\NTN0535\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\NTN0535\\Details.cshtml",
+      "TargetPath": "Views\\NTN0535\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\PersonNTN535\\Index.cshtml",
       "TargetPath": "Views\\PersonNTN535\\Index.cshtml",
       "FileKind": "mvc"
@@ -15674,8 +15689,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\NTN0535\\Index.cshtml",
+      "TargetPath": "Views\\NTN0535\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\PersonNTN535\\Edit.cshtml",
       "TargetPath": "Views\\PersonNTN535\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HI\\Documents\\Test\\Views\\NTN0535\\Delete.cshtml",
+      "TargetPath": "Views\\NTN0535\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],

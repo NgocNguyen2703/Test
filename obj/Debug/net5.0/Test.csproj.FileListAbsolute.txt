@@ -170,3 +170,8 @@ C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\PersonNTN535\Delete.csht
 C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\PersonNTN535\Details.cshtml.g.cs
 C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\PersonNTN535\Edit.cshtml.g.cs
 C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\PersonNTN535\Index.cshtml.g.cs
+C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\NTN0535\Create.cshtml.g.cs
+C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\NTN0535\Delete.cshtml.g.cs
+C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\NTN0535\Details.cshtml.g.cs
+C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\NTN0535\Edit.cshtml.g.cs
+C:\Users\HI\Documents\Test\obj\Debug\net5.0\Razor\Views\NTN0535\Index.cshtml.g.cs
